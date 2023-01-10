@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "samuelleezy-hashicorp-demo"
+    organization = "hashiClass-2022"
 
     workspaces {
       name = "hc-terraform-demo"
